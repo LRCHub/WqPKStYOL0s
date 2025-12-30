@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "羊を数えて",
+  "base_artist": "Eve",
+  "createdAt": "2025-12-30T09:26:59.034429Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "羊を数えて",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/01_羊を数えて_Eve.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "羊を数えて",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/pl_01_羊を数えて_Eve.txt"
+    }
+  ]
+}
